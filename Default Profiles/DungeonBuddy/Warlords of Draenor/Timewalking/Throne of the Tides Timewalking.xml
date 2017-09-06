@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DungeonBuddyProfile xsi:noNamespaceSchemaLocation="../../DungeonbuddyProfile.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Throne of the Tides Timewalking</Name>
+  <DungeonId>1150</DungeonId>
+  <BossEncounters>
+    <Boss isFinal="false" entry="40586" name="Lady Naz'jar" killOrder="1" step="2" optional="false" X="195.0755" Y="805.0183" Z="807.6379" />
+    <Boss isFinal="false" entry="40765" name="Commander Ulthok" killOrder="2" step="3" optional="true" X="51.5573" Y="802.717" Z="805.7309" />
+    <Boss isFinal="false" entry="40825" name="Erunak Stonespeaker" killOrder="3" optional="true" X="-164.4549" Y="636.033" Z="286.3688" />
+    <Boss isFinal="true" entry="44566" name="Ozumat" killOrder="4" step="1" optional="false" X="-151.7274" Y="982.7444" Z="229.7803" />
+  </BossEncounters>
+  <Blackspots>
+    <Blackspot X="-296.3699" Y="794.1987" Z="260.2204" Radius="7.200134" />
+  </Blackspots>
+</DungeonBuddyProfile>
